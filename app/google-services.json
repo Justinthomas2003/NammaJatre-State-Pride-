@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711869438595",
+    "project_id": "nammajatrestatepride",
+    "storage_bucket": "nammajatrestatepride.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711869438595:android:57d9501eb890eebe9619b6",
+        "android_client_info": {
+          "package_name": "com.example.nammajatrestatepride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1pZGBbeoRHZZrJFZ1zPFsMkCUSel2po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

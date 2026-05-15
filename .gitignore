@@ -1,0 +1,65 @@
+# Android / Kotlin / Gradle
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# IntelliJ
+*.iws
+*.iml
+*.ipr
+*.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Kotlin/Java
+*.class
+*.jar
+
+# Gradle
+/.gradle/
+/build/
+
+# Android specific
+/.gradle/
+/app/build/
+/captures/
+/.externalNativeBuild
+.cxx/
+.navigation/
+
+# Google services (uncomment if you want to keep it untracked)
+# google-services.json
+
+# Keystore / signing keys
+*.jks
+*.keystore
+keystore.properties
+
+# Environment files
+.env
+.env.local
+
+# Firebase / IntelliJ caches
+.idea/
+*.iml
+
+# Generated files
+**/generated/
+**/kapt/
+**/kapt3/
+
+# NDK
+obj/
+*.so
+
+# Misc
+*.orig
