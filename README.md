@@ -35,5 +35,3 @@ Namma Jatre State Pride showcases festival events, ticket booking, maps, gallery
 3. Google Maps API
 - Create an API key with Maps SDK for Android enabled.
 - Add `MAPS_API_KEY` to your `local.properties` (or use safe injection via build configs/CI).
-
-Example `local.properties` entries (do not commit):
